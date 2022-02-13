@@ -5,5 +5,5 @@ nVidia GPU Fan Profiling Script
 2. systemctl --user enable --now nvidia_fan_prof.timer
 
 
-TODO
-# more generic parameters
+# TODO
+- more generic parameters
