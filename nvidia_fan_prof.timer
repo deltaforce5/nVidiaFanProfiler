@@ -1,0 +1,8 @@
+[Unit]
+Description=nVidia Fan Profiler
+[Timer]
+OnBootSec=20
+OnUnitInactiveSec=4
+AccuracySec=500ms
+[Install]
+WantedBy=timers.target

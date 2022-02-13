@@ -1,0 +1,4 @@
+[Unit]
+Description=nVidia Fan Profiling Script
+[Service]
+ExecStart=/usr/bin/nvidiafan.sh
